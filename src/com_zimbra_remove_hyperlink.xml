@@ -24,7 +24,7 @@
 #
 # Original project: 
 # Zimbra Block Hyperlinks Zimlet
-# https://github.com/yartu/zimlet-RemoveHyperlink
+# https://github.com/yartu/zimlet-blockhyperlink
 #
 # Copyright 2016 Deltanoc Ltd.
 #
