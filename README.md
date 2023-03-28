@@ -1,4 +1,4 @@
-# Zimlet-Remove-Hyperlink-from-E-mail
+# com_zimbra_remove_hyperlink
 Zimlet (plugin) para remover hyperlink do corpo do e-mail. 
 
 O objetivo deste plugin para o Zimbra 8.7.0 é reduzir a possibilidade do usuário clicar de forma intencional ou não em hyperlinks presentes em mensagens recebidas que possam levar ao download ou instalação de vírus, ransomware, etc. 
